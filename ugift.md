@@ -1,5 +1,5 @@
 ---
-title: Tomsu Family 529 College Savings Account Gift Contributions
+title: 529 College Savings Account Gift Contributions
 ---
 
 ## Instructions:
